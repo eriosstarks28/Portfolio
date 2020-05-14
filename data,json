@@ -1,0 +1,87 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id": 0,
+                "project_name": "Phrase Hunter",
+                "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
+                "github_link": "https://github.com/eriosstarks28/Random-quote-generator",
+                "image_urls": [
+                    "/images/random_landing.png",
+                    "images/random_main.png"
+                ]
+            },
+            {
+                "id": 1,
+                "project_name": "Pagination and Content Filter",
+                "description": "JavaScript to dynamically divide a long list of items into pages",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/List-pagination/",
+                "github_link": "https://github.com/eriosstarks28/List-pagination",
+                "image_urls": [
+                    "/images/list_landing.png",
+                    "images/list_main.png"
+                ]
+            },
+            {
+                "id": 2,
+                "project_name": "Interactive Form",
+                "description": "A from validation project using jquery to add ineractivity to the form ",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS",
+                    "jQuery"
+                ],
+                "live_link": "https://eriosstarks28.github.io/Form-Verification/",
+                "github_link": "https://github.com/eriosstarks28/Form-Verification",
+                "image_urls": [
+                    "/images/form_landing.png",
+                    "images/form_main.png"
+                ]
+            },
+            {
+                "id": 3,
+                "project_name": "Object-Oriented Game Show App",
+                "description": "Browser-based, word guessing game use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/OOP-Game-Show-App/",
+                "github_link": "https://github.com/eriosstarks28/OOP-Game-Show-App",
+                "image_urls": [
+                    "/images/phrase_landing.png",
+                    "images/phrase_main.png"
+                ]
+            },
+            {
+                "id": 4,
+                "project_name": "API Employee Directory",
+                "description": "Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/public-api-request/",
+                "github_link": "https://github.com/eriosstarks28/public-api-request",
+                "image_urls": [
+                    "/images/api_landing.png",
+                    "images/api_main.png"
+                ]
+            }
+        ]
+    }
+}
