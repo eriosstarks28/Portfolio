@@ -3,7 +3,7 @@
         "projects": [
             {
                 "id": 0,
-                "project_name": "Phrase Hunter",
+                "project_name": "Random Quote Generator",
                 "description": "A program that displays a randomly selected quote each time the user clicks a button.",
                 "technologies": [
                     "JavaScript",
@@ -52,7 +52,7 @@
             },
             {
                 "id": 3,
-                "project_name": "Object-Oriented Game Show App",
+                "project_name": "Phrase Hunter",
                 "description": "Browser-based, word guessing game use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase",
                 "technologies": [
                     "JavaScript",
