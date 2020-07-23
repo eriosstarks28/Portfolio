@@ -3,6 +3,43 @@
         "projects": [
             {
                 "id": 0,
+                "project_name": "Student Course Creation App ",
+                "description": "Rest API and client full stack JavaScript application that allows users to view a list of courses and the detail for a specific course, sign up to create an account or sign in with an existing account, and create, update, or delete courses",
+                "technologies": [
+                    "JavaScript",
+                    "node",
+                    "react",
+                    "sql",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
+                "github_link": "https://github.com/eriosstarks28/Random-quote-generator",
+                "image_urls": [
+                    "/images/restapilanding.png",
+                    "images/random_main.png"
+                ]
+            },
+            {
+                "id": 1,
+                "project_name": "Flikr Photo Gallery App",
+                "description": "Using the react library i created an image gallery app. With the help of this powerful (Model, View, Controller) library, the app is built in the style of modern single page application",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
+                "github_link": "https://github.com/eriosstarks28/Random-quote-generator",
+                "image_urls": [
+                    "/images/gallerylanding.png",
+                    "images/random_main.png"
+                ]
+            },
+
+            
+            {
+                "id": 2,
                 "project_name": "Random Quote Generator",
                 "description": "A program that displays a randomly selected quote each time the user clicks a button.",
                 "technologies": [
@@ -18,7 +55,7 @@
                 ]
             },
             {
-                "id": 1,
+                "id": 3,
                 "project_name": "Pagination and Content Filter",
                 "description": "JavaScript to dynamically divide a long list of items into pages",
                 "technologies": [
@@ -34,7 +71,7 @@
                 ]
             },
             {
-                "id": 2,
+                "id": 4,
                 "project_name": "Interactive Form",
                 "description": "A from validation project using jquery to add ineractivity to the form ",
                 "technologies": [
@@ -51,7 +88,7 @@
                 ]
             },
             {
-                "id": 3,
+                "id": 5,
                 "project_name": "Phrase Hunter",
                 "description": "Browser-based, word guessing game use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase",
                 "technologies": [
@@ -67,7 +104,7 @@
                 ]
             },
             {
-                "id": 4,
+                "id": 6,
                 "project_name": "API Employee Directory",
                 "description": "Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
                 "technologies": [
