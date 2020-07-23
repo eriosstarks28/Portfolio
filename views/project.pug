@@ -7,29 +7,44 @@ block content
     .grid-x
       .cell.small-6.medium-9.large-9
 
-       
+
         h1=title
 
         
+
+         
+
+
         p.lead.text-light=description
-          | 
+
+
+        cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Summary
+
+
+        ul
+          each point in technologies
+            li= point
+            |
+
+              
 
       .cell.portfolio-meta.small-6.medium-2.large-3
-        h6 Technologies
+        h6 Links
 
-        
-        
-        ul
-         each val in technologies
-          li= val
-          
-                
 
-        
+
+       
+
+
+
+
         a.button.expanded(href=liveLink) Live Demo
         a.button.expanded(href=githubLink) GitHub Repo
-    
-    
+
+
+    p    
+
+
     img.image(src= mainImg[1])
-    img.image(src='')
-    img.image(src='')
+    

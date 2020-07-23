@@ -6,14 +6,11 @@
                 "project_name": "Student Course Creation App ",
                 "description": "Rest API and client full stack JavaScript application that allows users to view a list of courses and the detail for a specific course, sign up to create an account or sign in with an existing account, and create, update, or delete courses",
                 "technologies": [
-                    "JavaScript",
-                    "node",
-                    "react",
-                    "sql",
-                    "HTML",
-                    "CSS"
+                    "Built Rest API using Express web application framework and a SQL database",
+                    "Constructed Client using React js to allow users to view a list of courses, details for a specific course, sign up to create an account or sign in with an existing account, &amp; CRUD functions",
+                    "Implemented user authentication & authorization"
                 ],
-                "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
+                "live_link": "https://student-course-creation-app.herokuapp.com/",
                 "github_link": "https://github.com/eriosstarks28/Full-stack-App-Rest-Api",
                 "image_urls": [
                     "/images/restapilanding.png",
@@ -22,22 +19,20 @@
             },
             {
                 "id": 1,
-                "project_name": "Flikr Photo Gallery App",
+                "project_name": "Flickr Photo Gallery App",
                 "description": "Using the react library i created an image gallery app. With the help of this powerful (Model, View, Controller) library, the app is built in the style of modern single page application",
                 "technologies": [
                     "JavaScript",
                     "HTML",
                     "CSS"
                 ],
-                "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
+                "live_link": "https://flickr-react-gallery-app.herokuapp.com/cats",
                 "github_link": "https://github.com/eriosstarks28/React-Gallery-App",
                 "image_urls": [
                     "/images/gallerylanding.png",
                     "images/gallerymain.png"
                 ]
             },
-
-            
             {
                 "id": 2,
                 "project_name": "Random Quote Generator",

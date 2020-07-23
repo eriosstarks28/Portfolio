@@ -49,16 +49,16 @@ a:hover{
 .image{
   display: inline-block;
   max-width: 100%;
-  margin-bottom: 1rem;
-  border: solid 2px #0c0c0c;
+  margin-bottom: 10rem;
+  border: solid 2px #ffffff;
   border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
-  line-height: 0;
+  line-height: 80%;
 }
 
 .portfolio-me{
   padding: 20px;
-  background: #2f2f55fa;
+  background: #000000fa;
   color: #fff;
   box-shadow: none !important;
 }
