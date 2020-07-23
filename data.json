@@ -14,10 +14,10 @@
                     "CSS"
                 ],
                 "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
-                "github_link": "https://github.com/eriosstarks28/Random-quote-generator",
+                "github_link": "https://github.com/eriosstarks28/Full-stack-App-Rest-Api",
                 "image_urls": [
                     "/images/restapilanding.png",
-                    "images/random_main.png"
+                    "images/restapimain.png"
                 ]
             },
             {
@@ -30,10 +30,10 @@
                     "CSS"
                 ],
                 "live_link": "https://eriosstarks28.github.io/Random-quote-generator/",
-                "github_link": "https://github.com/eriosstarks28/Random-quote-generator",
+                "github_link": "https://github.com/eriosstarks28/React-Gallery-App",
                 "image_urls": [
                     "/images/gallerylanding.png",
-                    "images/random_main.png"
+                    "images/gallerymain.png"
                 ]
             },
 
