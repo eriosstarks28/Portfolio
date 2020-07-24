@@ -35,20 +35,6 @@
             },
             {
                 "id": 2,
-                "project_name": "API Employee Directory",
-                "description": "Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
-                "technologies": [
-                    "Implmented the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for a  Startup employee directory",
-                ],
-                "live_link": "https://eriosstarks28.github.io/public-api-request/",
-                "github_link": "https://github.com/eriosstarks28/public-api-request",
-                "image_urls": [
-                    "/images/api_landing.png",
-                    "images/api_main.png"
-                ]
-            },
-            {
-                "id": 2,
                 "project_name": "Random Quote Generator",
                 "description": "A program that displays a randomly selected quote each time the user clicks a button.",
                 "technologies": [
@@ -65,18 +51,16 @@
             },
             {
                 "id": 3,
-                "project_name": "Pagination and Content Filter",
-                "description": "JavaScript to dynamically divide a long list of items into pages",
+                "project_name": "API Employee Directory",
+                "description": "Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
                 "technologies": [
-                    "JavaScript",
-                    "HTML",
-                    "CSS"
+                    "Implmented the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for a  Startup employee directory",
                 ],
-                "live_link": "https://eriosstarks28.github.io/List-pagination/",
-                "github_link": "https://github.com/eriosstarks28/List-pagination",
+                "live_link": "https://eriosstarks28.github.io/public-api-request/",
+                "github_link": "https://github.com/eriosstarks28/public-api-request",
                 "image_urls": [
-                    "/images/list_landing.png",
-                    "images/list_main.png"
+                    "/images/api_landing.png",
+                    "images/api_main.png"
                 ]
             },
             {
@@ -112,4 +96,22 @@
                     "images/phrase_main.png"
                 ]
             },
-            
+            {
+                "id": 6,
+                "project_name": "Pagination and Content Filter",
+                "description": "JavaScript to dynamically divide a long list of items into pages",
+                "technologies": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "live_link": "https://eriosstarks28.github.io/List-pagination/",
+                "github_link": "https://github.com/eriosstarks28/List-pagination",
+                "image_urls": [
+                    "/images/list_landing.png",
+                    "images/list_main.png"
+                ]
+            }
+        ]
+    }
+}
