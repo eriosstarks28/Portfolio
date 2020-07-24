@@ -23,9 +23,9 @@
                 "description": "Using the react library i created an image gallery app. With the help of this powerful (Model, View, Controller) library, the app is built in the style of modern single page application",
                 "technologies": [
                     
-                   "●Implemented the Fetch API to request data from Flickr’s API and used it to display images in the app",
-                   "● Resourced React Router to set up routes for three default topic pages and a search page",
-                   "● Used JavaScript and JSX to build out the gallery components in a modular fashion."
+                   "Implemented the Fetch API to request data from Flickr’s API and used it to display images in the app",
+                   "Resourced React Router to set up routes for three default topic pages and a search page",
+                   "Used JavaScript and JSX to build out the gallery components in a modular fashion."
                 ],
                 "live_link": "https://flickr-react-gallery-app.herokuapp.com/cats",
                 "github_link": "https://github.com/eriosstarks28/React-Gallery-App",
